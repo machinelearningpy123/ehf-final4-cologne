@@ -1,0 +1,10 @@
+{
+  "repo_name": "ehf-final4-cologne",
+  "description": "EHF FINAL4 Köln: Independent guide and resource site about Ehf Final4 Cologne.",
+  "visibility": "public",
+  "branch": "main",
+  "commit_message": "Initial EHF FINAL4 Köln deployment",
+  "pages_source_path": "/",
+  "on_repo_exists": "suffix",
+  "open_live_url": true
+}
